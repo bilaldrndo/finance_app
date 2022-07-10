@@ -1,4 +1,4 @@
-# finance_app
+# Finance App Flutter
 
 This is an open source project where a full fledged Fintech app for the Millenial and Gen Z will be built.
 
@@ -12,7 +12,7 @@ I will keep in mind to separate as much code as I can so others can reuse it and
 
 Still haven't decided which pattern to use (MVP, MVC, MVVM, Bloc), but that will be defined later after the majorityof the UI has been built.
 
-### Next Steps
+## Next Steps
 1. Finish the App UI
 2. Make a Node.js Backend
 3. Add a MySQL or Postrge Database
