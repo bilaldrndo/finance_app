@@ -8,9 +8,9 @@ The Figma Design File can be found [here](https://www.figma.com/file/Wr8HWHHvfbv
 
 This project will showcase my expertise in the Flutter programming language and also be a starting point for others to clone and reuse it in their projects.
 
-I will keep in mind to separate as much code as I can so others can reuse it and implement it.
+I will keep in mind to separate as much code as I can so it is easier to clone and copy.
 
-Still haven't decided which pattern to use (MVP, MVC, MVVM, Bloc), but that will be defined later after the majorityof the UI has been built.
+Still haven't decided which pattern to use (MVP, MVC, MVVM, Bloc), but that will be defined later after the majority of the UI has been built.
 
 ## Next Steps
 1. Finish the App UI
